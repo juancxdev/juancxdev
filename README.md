@@ -32,7 +32,13 @@ Researching cognitive architectures for LLM agents, memory retention, and budget
 
 # Featured Projects
 
-Here are a few personal and research-focused repositories that highlight my technical interests:
+### [🌐 Cilqum SaaS](https://app.cilqum.online)
+
+A multi-tenant Software-as-a-Service (SaaS) platform built for high concurrency and dynamic user workflows.
+
+*   Architected backend microservices in **Go** to handle session tokens, transactions, and core business logic.
+*   Designed and implemented the user interface using **React** for a responsive, interactive user experience.
+*   **Tech Stack:** Go (Golang), React, PostgreSQL.
 
 ### [🏔️ Pirqa](https://github.com/juancxdev/pirqa)
 
